@@ -8,6 +8,8 @@ For each movie in the list, there are two options:
 1. If the movie has been favorited, then display a list of all of the users who said that this movie was their favorite.
 2. If the movie has *not* been favorited, display some text stating that no one favorited the movie.
 
+10
+​
 As you go about tackling this project, try to make the app *modular* by breaking it into resusable React components.
 
 ## Example
